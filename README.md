@@ -6,9 +6,7 @@ This is a prototype application built in Python to do data mining without touchi
 - The source code is source.ipynb
 - input data files are:
 airport-frequencies.csv,
-
 airports.csv,
-
 runways.csv
 
 
